@@ -1,8 +1,9 @@
 # YOLO-object-detection-video-
-## Dependencies
+## Download the following dependencies:
   * opencv
   * numpy
   
+  by using
 `pip install numpy opencv-python`
 
 
