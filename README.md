@@ -11,4 +11,6 @@
  `$ wget https://pjreddie.com/media/files/yolov3.weights`
   
  `$ python yolo_opencv.py --image dog.jpg --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt`
- *now properly add the paths of files in the input.
+ 
+*now properly add the paths of files in the input.
+The resultant video will be downloaded in avi format change it to mp4 for further application.
